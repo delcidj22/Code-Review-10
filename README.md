@@ -35,6 +35,7 @@
 
 
 ## Known Bugs
+- _When looking at Engineers page, the route goes to Engineers/Name instead of Engineers/Details. Therefore the page returns "Hello World" instead of the engineer details._
 
 
 
